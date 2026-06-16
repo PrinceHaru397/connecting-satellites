@@ -1,2 +1,2 @@
-# get-apples
-Get apples game
+# connecting-satellites
+Connecting satellites game
